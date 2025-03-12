@@ -1,0 +1,6 @@
+*.zip
+*.tar.gz
+*.xslx
+
+# Config
+config.env
